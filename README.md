@@ -238,12 +238,6 @@ Execute `test_lora.py` to run a few unit tests.
 
 Please feel free to comment, report issues, or contribute!
 
-Contact me via my company website [Mayer Analytics](http://mayeranalytics.com) and my private blog
-[mcmayer.net](http://mcmayer.net). 
-
-Follow me on twitter [@markuscmayer](https://twitter.com/markuscmayer) and
-[@mayeranalytics](https://twitter.com/mayeranalytics).
-
 
 # Roadmap
 
